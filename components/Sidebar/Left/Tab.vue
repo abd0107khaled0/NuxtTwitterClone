@@ -9,7 +9,7 @@
         <slot name="icon"></slot>
       </div>
 
-      <div class="text-xl hidden sm:block" :class="textClass">
+      <div class="text-xl hidden lg:block" :class="textClass">
         <slot name="name"></slot>
       </div>
 
