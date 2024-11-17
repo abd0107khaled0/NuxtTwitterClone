@@ -17,8 +17,8 @@
 
           <!-- right sidebar -->
           <div class="col-span-12 md:block xl:col-span-4 md:col-span-3">
-            <div class="sticky top-0">
-              <SidebarRight />
+            <div class="sticky top-0 bg-blue-500">
+              <SidebarRight class="" />
             </div>
           </div>
         </div>

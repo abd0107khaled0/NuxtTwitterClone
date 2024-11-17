@@ -6,5 +6,5 @@
 
 <script setup>
 // import { ref } from 'vue';
-const darkMode = ref(false);
+const darkMode = ref(true);
 </script>
